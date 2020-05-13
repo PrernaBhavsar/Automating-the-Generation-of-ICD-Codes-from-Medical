@@ -11,8 +11,24 @@ The Electronic Health Records (EHR) have gained a wide range of acceptance and a
 5. Prediction of ICD Codes
 
 ## Results
+
+Result Table
+
+![Result Table](/Images/Result_Table.PNG)
+
 Final Output for All ICD9 Codes
+
 ![Result All Codes](/Images/Result_full_30.png)
 
 Final Output for Top 50 ICD9 Codes
+
 ![Result Top 50 Codes](/Images/Result_top50_20.png)
+
+## References
+- [Zhang Y, Chen Q, Yang Z, Lin H, Lu Z. BioWordVec, improving biomedical word embeddings with subword information and MeSH. Scientific Data. 2019.](https://rdcu.be/b38Dr)
+- [Automated detection of diabetes using CNN and CNN-LSTM network and heart rate signals.](https://www.sciencedirect.com/science/article/pii/S1877050918307737)
+
+## Project Authors
+- [@Janice Johnson](https://github.com/Janice33/)
+- [@Parth Jhunjhunwala](https://github.com/ParthJhunjhunwala/)
+- [@Prerna Bhavsar](https://github.com/PrernaBhavsar/)
